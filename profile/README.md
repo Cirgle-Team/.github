@@ -1,6 +1,9 @@
 # ☕ Catalog
+E타입. 청년을 위한 SW 개발
 카페인 탈출을 기록하다, **Catalog** <br>
 
+## 🧾 프로젝트 한 줄 설명
+카페인을 과다 섭취하는 청년 층을 위한 일일 카페인 섭취 자가 관리 서비스
 
 ## 🖥️ 프로젝트 기술 스택 (Project Tech Stacks)
 **Front-end** : JavaScript<br>
