@@ -12,7 +12,7 @@ Cirgle은 'Comfortable(편안한)', 'Improved(개선된)', 'Revolutionary(혁신
 ## 🖥️ 프로젝트에 사용된 대표적인 기술 3가지
 **Spring Boot와 Kotlin**: Spring Boot 3.1.5와 Kotlin을 사용하여 백엔드 로직을 구성하였으며, 이를 통해 Jwt 토큰을 이용한 인증인가 로직을 구현하였습니다.<br>
 **MariaDB와 인덱스 최적화**: MariaDB를 사용하여 데이터베이스를 구축하고, 인덱스를 활용하여 데이터 조회 성능을 최적화하였습니다.<br>
-**Bootstrap과 JavaScript**: Bootstrap을 이용하여 반응형 웹 페이지를 구현하였고, JavaScript로 프론트엔드를 구성하였습니다.<br>
+**Backend For Frontend 와 JavaScript**: 네이티브 JavaScript로 프론트엔드를 구성하였습니다. 또한 스프링부트 백엔드 api를 은닉하고 여러 API Response들을 통합하여 Client에 제공하는 역할을 하도록 BFF를 구성하였습니다. <br>
 
 ## 🙍‍♂️ 프로젝트 기여자 (Project Contributors)
 - [배규민](https://github.com/BGMSound) *(BGMSound)* <br>
