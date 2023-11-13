@@ -15,6 +15,9 @@ Cirgle은 'Comfortable(편안한)', 'Improved(개선된)', 'Revolutionary(혁신
 **MariaDB와 인덱스 최적화**: MariaDB를 사용하여 데이터베이스를 구축하고, 인덱스를 활용하여 데이터 조회 성능을 최적화하였습니다.<br>
 **Backend For Frontend 와 JavaScript**: 네이티브 JavaScript로 프론트엔드를 구성하였습니다. 또한 스프링부트 백엔드 api를 은닉하고 여러 API Response들을 통합하여 Client에 제공하는 역할을 하도록 BFF를 구성하였습니다. <br>
 
+## 🖥️ 프로젝트 시연 영상
+[![Video Label](http://img.youtube.com/vi/https://www.youtube.com/watch?v=55FUFlBgGjE/0.jpg)](https://www.youtube.com/watch?v=55FUFlBgGjE)
+
 ## 🙍‍♂️ 프로젝트 기여자 (Project Contributors)
 - [배규민](https://github.com/BGMSound) *(BGMSound)* <br>
 - [양석훈](https://github.com/Seokhun-Yang) *(SeokHun Yang)* <br>
