@@ -13,8 +13,12 @@ Cirgle은 'Comfortable(편안한)', 'Improved(개선된)', 'Revolutionary(혁신
 **Front-End 바로가기** : [https://github.com/TeamCirgle/catalog-frontend](https://github.com/TeamCirgle/catalog-frontend) <br>
 **Back-End 바로가기** : [https://github.com/TeamCirgle/catalog-backend-api](https://github.com/TeamCirgle/catalog-backend-api) <br>
 
-**Spring Boot와 Kotlin**: Spring Boot 3.1.5와 Kotlin을 사용하여 백엔드 로직을 구성하였으며, 
+**Spring Boot와 Kotlin**: Spring Boot 3.1.5와 Kotlin을 사용하여 Restful한 백엔드를 구성하였으며, 
 이는 Jwt 토큰을 이용한 인증인가, Spring Data JPA 를 활용한 데이터베이스 구축, Validation을 통한 Controller 단에서의 유효성 검사 등의 로직이 포함됩니다.<br>
+Domain Driven Architecture를 이용하여 컴포넌트 간 계층을 명확히 정의하고 구현부와 선언부를 분리하였습니다.
+
+![](https://github.com/TeamCirgle/.github/blob/main/image/ddd.png)
+
 **MariaDB와 인덱스 최적화**: MariaDB를 사용하여 데이터베이스를 구축하고, 인덱스를 활용하여 데이터 조회 성능을 최적화하였습니다.<br>
 **Backend For Frontend 와 JavaScript**: 네이티브 JavaScript로 프론트엔드를 구성하였습니다. 또한 스프링부트 백엔드 api를 은닉하고 여러 API Response들을 통합하여 Client에 제공하는 역할을 하도록 BFF를 구성하였습니다. <br>
 ![](https://github.com/TeamCirgle/.github/blob/main/image/bff.png)
