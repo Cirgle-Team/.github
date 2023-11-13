@@ -11,7 +11,7 @@ Cirgle은 'Comfortable(편안한)', 'Improved(개선된)', 'Revolutionary(혁신
 
 ## 🖥️ 프로젝트에 사용된 대표적인 기술 3가지
 **Front-End 바로가기** : [https://github.com/TeamCirgle/catalog-frontend](https://github.com/TeamCirgle/catalog-frontend) <br>
-**Back-End 바로가기** : [https://github.com/TeamCirgle/catalog-frontend](https://github.com/TeamCirgle/catalog-backend-api) <br>
+**Back-End 바로가기** : [https://github.com/TeamCirgle/catalog-backend-api](https://github.com/TeamCirgle/catalog-backend-api) <br>
 
 **Spring Boot와 Kotlin**: Spring Boot 3.1.5와 Kotlin을 사용하여 백엔드 로직을 구성하였으며, 
 이는 Jwt 토큰을 이용한 인증인가, Spring Data JPA 를 활용한 데이터베이스 구축, Validation을 통한 Controller 단에서의 유효성 검사 등의 로직이 포함됩니다.<br>
