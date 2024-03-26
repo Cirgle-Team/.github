@@ -10,7 +10,7 @@ Cirgle은 'Comfortable(편안한)', 'Improved(개선된)', 'Revolutionary(혁신
 
 ## 🖥️ 프로젝트 기술 스택 (Project Tech Stacks)
 - [Backend](https://github.com/TeamCirgle/catalog-backend-api) : Kotlin, Spring Boot 3.1.5, MySQL
-- [Frontend (Web View)](https://github.com/TeamCirgle/catalog-frontend) : Vanila JavaScript
+- [Frontend (Web View)](https://github.com/TeamCirgle/catalog-frontend) : JavaScript, jQuery
 
 ## 🙍‍♂️ 프로젝트 기여자 (Project Contributors)
 - [배규민](https://github.com/BGMSound) *(BGMSound)* <br>
